@@ -1,6 +1,4 @@
-docker/ffmpeg
-=============
-
+# docker-convert
 Container to convert media
 
 ```
